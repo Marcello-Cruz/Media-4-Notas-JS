@@ -1,1 +1,1 @@
-# Tabuada-JS feito por Marcello Cardozo da Cruz, em Mongaguá, SP Brasil, 2022.
+# Média 4 Notas JS feito por Marcello Cardozo da Cruz, em Mongaguá, SP Brasil, 2022.
